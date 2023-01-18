@@ -1,0 +1,11 @@
+.content{
+  @apply text-3xl font-bold underline
+}
+.footer {
+  display: flex;
+  flex: 1;
+  padding: 2rem 0;
+  background-color: #EEEADF;
+  justify-content: center;
+  align-items: center;
+}
